@@ -52,7 +52,7 @@ contract MarketTest is Test {
         
         vm.startPrank(hacker);
         marketplace.createMarketSale{value:1 ether}(address(nft), 1);
-        
+
         assertEq(seller.balance, 12 ether);
         assertEq(buyer.balance, 9 ether);
         assertEq(hacker.balance, 9 ether);
@@ -63,7 +63,7 @@ contract MarketTest is Test {
         //              hacker has 9 ether & 1 NFT
 
 
-        // Expeceted    seller has 11 ether
+        // Expected    seller has 11 ether
         //              buyer has 19 ether
         //              NotHacker has 0 ether & 1 NFT
     }
