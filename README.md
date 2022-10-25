@@ -1,6 +1,6 @@
 # NFT marketplace exploit
 
-Smart contract exploit on the most popular nft marketplace [tutorial](https://www.youtube.com/watch?v=GKJBEEXUha0&t)
+Smart contract exploit on a large nft marketplace [tutorial](https://www.youtube.com/watch?v=GKJBEEXUha0&t)
 
 ## Exploit
 
