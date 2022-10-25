@@ -2,7 +2,7 @@
 
 Smart contract exploit on the most popular nft marketplace [tutorial](https://www.youtube.com/watch?v=GKJBEEXUha0&t)
 
-## The Hack
+## Exploit
 
 An nft can be bought with the information of its previous listings by calling ```createMarketSale``` with older data and 
 
